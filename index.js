@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+// nestedFunction() has access to the variable 'internal' because closure occurs when nestedFunction looks outside of it's scope to the myFunction scope and finds the variable 'internal' defined. 
 
 
 
